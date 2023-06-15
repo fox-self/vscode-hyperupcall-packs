@@ -7,10 +7,10 @@
 	"license": "MPL-2.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall/vscode-assorted-languages"
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall/vscode-assorted-languages/issues"
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",

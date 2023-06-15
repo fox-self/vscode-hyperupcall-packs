@@ -25,7 +25,7 @@
 	"extensionPack": [
 		"vscode-icons-team.vscode-icons",
 		"equinusocio.vsc-material-theme-icons",
-		"emmanuelbeziat.vscode-great-icons",
-		"file-icons.file-icons"
+		"file-icons.file-icons",
+		"BeardedBear.beardedicons"
 	]
 }
