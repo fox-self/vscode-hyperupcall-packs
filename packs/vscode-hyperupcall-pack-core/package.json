@@ -1,0 +1,31 @@
+{
+	"name": "vscode-hyperupcall-pack-core",
+	"displayName": "Edwin's Core Pack",
+	"description": "VSCode extension pack for Edwin's core tools",
+	"version": "0.1.0",
+	"publisher": "EdwinKofler",
+	"license": "MPL-2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hyperupcall/vscode-assorted-languages"
+	},
+	"bugs": {
+		"url": "https://github.com/hyperupcall/vscode-assorted-languages/issues"
+	},
+	"author": {
+		"name": "Edwin Kofler",
+		"url": "https://edwinkofler.com"
+	},
+	"engines": {
+		"vscode": "^1.79.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"EditorConfig.EditorConfig",
+		"usernamehw.errorlens",
+		"Gruntfuggly.todo-tree",
+		"alefragnani.Bookmarks"
+	]
+}
