@@ -1,8 +1,8 @@
 {
-	"name": "vscode-hyperupcall-pack-icons",
-	"displayName": "Edwin's Icon Pack",
-	"description": "VSCode extension pack for Edwin's icons",
-	"version": "0.1.2",
+	"name": "vscode-hyperupcall-pack-php",
+	"displayName": "Edwin's PHP Pack",
+	"description": "VSCode extension pack for Edwin's PHP",
+	"version": "0.1.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -23,10 +23,11 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"vscode-icons-team.vscode-icons",
-		"equinusocio.vsc-material-theme-icons",
-		"file-icons.file-icons",
-		"BeardedBear.beardedicons",
-		"miguelsolorio.symbols"
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"njpwerner.autodocstring",
+		"donjayamanne.python-environment-manager",
+		"tushortz.python-extended-snippets",
+		"LittleFoxTeam.vscode-python-test-adapter"
 	]
 }

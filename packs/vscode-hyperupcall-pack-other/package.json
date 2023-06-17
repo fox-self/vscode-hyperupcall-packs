@@ -1,0 +1,46 @@
+{
+	"name": "vscode-hyperupcall-pack-other",
+	"displayName": "Edwin's Other Pack",
+	"description": "VSCode extension pack for Edwin's Other",
+	"version": "0.1.0",
+	"publisher": "EdwinKofler",
+	"license": "MPL-2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs"
+	},
+	"bugs": {
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs/issues"
+	},
+	"author": {
+		"name": "Edwin Kofler",
+		"url": "https://edwinkofler.com"
+	},
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"tecosaur.latex-utilities",
+		"James-Yu.latex-workshop",
+		"alefragnani.project-manager",
+		"donjayamanne.githistory",
+		"DotJoshJohnson.xml",
+		"eamodio.gitlens",
+		"formulahendry.docker-explorer",
+		"GitHub.copilot",
+		"github.vscode-github-actions",
+		"GitHub.vscode-pull-request-github",
+		"lextudio.restructuredtext",
+		"ms-azuretools.vscode-docker",
+		"redhat.vscode-xml",
+		"redhat.vscode-yaml",
+		"tamasfe.even-better-toml",
+		"tomoki1207.pdf",
+		"trond-snekvik.simple-rst",
+		"waderyan.gitblame",
+		"ziyasal.vscode-open-in-github"
+	]
+}

@@ -26,6 +26,18 @@
 		"EditorConfig.EditorConfig",
 		"usernamehw.errorlens",
 		"Gruntfuggly.todo-tree",
-		"alefragnani.Bookmarks"
+		"alefragnani.Bookmarks",
+		"ms-vscode-remote.remote-containers",
+		"ritwickdey.LiveServer",
+		"ms-vsliveshare.vsliveshare",
+		"christian-kohler.path-intellisense",
+		"streetsidesoftware.code-spell-checker",
+		"adpyke.codesnap",
+		"LeonardSSH.vscord",
+		"stackbreak.comment-divider",
+		"aaron-bond.better-comments",
+		"naumovs.color-highlight",
+		"EdwinKofler.vscode-assorted-languages",
+		"EdwinKofler.vscode-hyperupcall"
 	]
 }

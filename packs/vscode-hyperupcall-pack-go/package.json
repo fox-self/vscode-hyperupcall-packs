@@ -1,7 +1,7 @@
 {
-	"name": "vscode-hyperupcall-pack-icons",
-	"displayName": "Edwin's Icon Pack",
-	"description": "VSCode extension pack for Edwin's icons",
+	"name": "vscode-hyperupcall-pack-go",
+	"displayName": "Edwin's Go Pack",
+	"description": "VSCode extension pack for Edwin's Go tools",
 	"version": "0.1.2",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
@@ -23,10 +23,8 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"vscode-icons-team.vscode-icons",
-		"equinusocio.vsc-material-theme-icons",
-		"file-icons.file-icons",
-		"BeardedBear.beardedicons",
-		"miguelsolorio.symbols"
+		"golang.go",
+		"premparihar.gotestexplorer",
+		"jeff-hykin.better-go-syntax"
 	]
 }

@@ -1,0 +1,41 @@
+{
+	"name": "vscode-hyperupcall-pack-web",
+	"displayName": "Edwin's Web Pack",
+	"description": "VSCode extension pack for Edwin's Web tools",
+	"version": "0.1.2",
+	"publisher": "EdwinKofler",
+	"license": "MPL-2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs"
+	},
+	"bugs": {
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs/issues"
+	},
+	"author": {
+		"name": "Edwin Kofler",
+		"url": "https://edwinkofler.com"
+	},
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"stylelint.vscode-stylelint",
+		"Vue.volar",
+		"ZixuanChen.vitest-explorer",
+		"denoland.vscode-deno",
+		"yoavbls.pretty-ts-errors",
+		"ms-playwright.playwright",
+		"bradlc.vscode-tailwindcss",
+		"christian-kohler.npm-intellisense",
+		"firefox-devtools.vscode-firefox-debug",
+		"ms-edgedevtools.vscode-edge-devtools",
+		"xabikos.JavaScriptSnippets",
+		"Orta.vscode-twoslash-queries"
+	]
+}

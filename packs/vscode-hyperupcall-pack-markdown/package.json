@@ -1,0 +1,39 @@
+{
+	"name": "vscode-hyperupcall-pack-markdown",
+	"displayName": "Edwin's Markdown Pack",
+	"description": "VSCode extension pack for Edwin's Markdown",
+	"version": "0.1.0",
+	"publisher": "EdwinKofler",
+	"license": "MPL-2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs"
+	},
+	"bugs": {
+		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs/issues"
+	},
+	"author": {
+		"name": "Edwin Kofler",
+		"url": "https://edwinkofler.com"
+	},
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"DavidAnson.vscode-markdownlint",
+		"yzhang.markdown-all-in-one",
+		"bierner.markdown-preview-github-styles",
+		"bierner.markdown-mermaid",
+		"bierner.markdown-emoji",
+		"bierner.markdown-checkbox",
+		"bierner.emojisense",
+		"bierner.markdown-yaml-preamble",
+		"bierner.markdown-footnotes",
+		"TakumiI.markdowntable",
+		"fcrespo82.markdown-table-formatter",
+		"unifiedjs.vscode-mdx"
+	]
+}

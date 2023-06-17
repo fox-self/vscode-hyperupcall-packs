@@ -1,8 +1,8 @@
 {
-	"name": "vscode-hyperupcall-pack-icons",
-	"displayName": "Edwin's Icon Pack",
-	"description": "VSCode extension pack for Edwin's icons",
-	"version": "0.1.2",
+	"name": "vscode-hyperupcall-pack-cpp",
+	"displayName": "Edwin's C++ Pack",
+	"description": "VSCode extension pack for Edwin's C++",
+	"version": "0.1.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -23,10 +23,14 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"vscode-icons-team.vscode-icons",
-		"equinusocio.vsc-material-theme-icons",
-		"file-icons.file-icons",
-		"BeardedBear.beardedicons",
-		"miguelsolorio.symbols"
+		"ms-vscode.cpptools",
+		"twxs.cmake",
+		"ms-vscode.cmake-tools",
+		"matepek.vscode-catch2-test-adapter",
+		"amiralizadeh9480.cpp-helper",
+		"llvm-vs-code-extensions.vscode-clangd",
+		"cschlosser.doxdocgen",
+		"jeff-hykin.better-c-syntax",
+		"jeff-hykin.better-cpp-syntax"
 	]
 }

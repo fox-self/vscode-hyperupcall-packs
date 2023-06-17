@@ -1,8 +1,8 @@
 {
-	"name": "vscode-hyperupcall-pack-icons",
-	"displayName": "Edwin's Icon Pack",
-	"description": "VSCode extension pack for Edwin's icons",
-	"version": "0.1.2",
+	"name": "vscode-hyperupcall-pack-ruby",
+	"displayName": "Edwin's Ruby Pack",
+	"description": "VSCode extension pack for Edwin's Ruby",
+	"version": "0.1.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -23,10 +23,6 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"vscode-icons-team.vscode-icons",
-		"equinusocio.vsc-material-theme-icons",
-		"file-icons.file-icons",
-		"BeardedBear.beardedicons",
-		"miguelsolorio.symbols"
+		"wingrunr21.vscode-ruby"
 	]
 }
