@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-syntax",
 	"displayName": "Edwin's Syntax Pack",
 	"description": "VSCode extension pack for Edwin's Syntax",
-	"version": "0.1.0",
+	"version": "0.3.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {

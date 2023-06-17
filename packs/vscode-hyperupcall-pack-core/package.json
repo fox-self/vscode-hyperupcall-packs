@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-core",
 	"displayName": "Edwin's Core Pack",
 	"description": "VSCode extension pack for Edwin's core tools",
-	"version": "0.1.2",
+	"version": "0.3.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {

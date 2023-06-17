@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-unix",
 	"displayName": "Edwin's UNIX Pack",
 	"description": "VSCode extension pack for Edwin's UNIX",
-	"version": "0.1.0",
+	"version": "0.3.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {

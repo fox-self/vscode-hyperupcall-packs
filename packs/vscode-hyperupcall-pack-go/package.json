@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-go",
 	"displayName": "Edwin's Go Pack",
 	"description": "VSCode extension pack for Edwin's Go tools",
-	"version": "0.1.2",
+	"version": "0.3.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
