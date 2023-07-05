@@ -38,6 +38,10 @@
 		"aaron-bond.better-comments",
 		"naumovs.color-highlight",
 		"EdwinKofler.vscode-assorted-languages",
-		"EdwinKofler.vscode-hyperupcall"
+		"EdwinKofler.vscode-hyperupcall",
+		"EdwinKofler.vscode-hyperupcall-pack-themes",
+		"EdwinKofler.vscode-hyperupcall-pack-icons",
+		"EdwinKofler.vscode-hyperupcall-pack-product-icons",
+		"EdwinKofler.vscode-hyperupcall-pack-syntax"
 	]
 }
