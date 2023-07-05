@@ -1,7 +1,7 @@
 {
-	"name": "vscode-hyperupcall-pack-php",
-	"displayName": "Edwin's PHP Pack",
-	"description": "VSCode extension pack for Edwin's PHP",
+	"name": "vscode-hyperupcall-pack-python",
+	"displayName": "Edwin's Python Pack",
+	"description": "VSCode extension pack for Edwin's Python",
 	"version": "0.3.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
