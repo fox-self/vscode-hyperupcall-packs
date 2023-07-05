@@ -1,4 +1,4 @@
-# vscode-hyperupcall-pack-core
+# vscode-hyperupcall-pack-go
 
 Includes:
 

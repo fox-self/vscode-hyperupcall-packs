@@ -1,4 +1,4 @@
-# vscode-hyperupcall-devops
+# vscode-hyperupcall-pack-devops
 
 Includes:
 

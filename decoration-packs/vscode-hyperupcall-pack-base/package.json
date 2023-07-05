@@ -1,8 +1,8 @@
 {
 	"name": "vscode-hyperupcall-pack-base",
-	"displayName": "Edwin's Base Pack",
-	"description": "VSCode extension pack for Edwin's base tools",
-	"version": "0.1.0",
+	"displayName": "Edwin's Pack: Base",
+	"description": "Universal extensions like EditorConfig, Error Lens, etc.",
+	"version": "0.1.1",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
