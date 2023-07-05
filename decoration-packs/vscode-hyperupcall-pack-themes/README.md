@@ -18,4 +18,5 @@ Includes:
 - [ahmadawais.shades-of-purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 - [RobbOwen.synthwave-vscode](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 - [enkia.tokyo-night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-- [johnpapa.winteriscoming"](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming")
+- [johnpapa.winteriscoming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+- [idleberg.hopscotch](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch)

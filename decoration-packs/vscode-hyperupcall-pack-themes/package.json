@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-themes",
 	"displayName": "Edwin's Pack: Themes",
 	"description": "Extensions that add a color theme",
-	"version": "0.3.1",
+	"version": "0.4.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -39,6 +39,7 @@
 		"ahmadawais.shades-of-purple",
 		"RobbOwen.synthwave-vscode",
 		"enkia.tokyo-night",
-		"johnpapa.winteriscoming"
+		"johnpapa.winteriscoming",
+		"idleberg.hopscotch"
 	]
 }
