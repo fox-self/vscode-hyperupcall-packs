@@ -4,9 +4,9 @@ Contains VSCode extension packs useful for [Profiles](https://code.visualstudio.
 
 ## Summary
 
-There are three categories of plugin packs.
+There are three categories of plugin packs:
 
-1. Decoration packs
+### 1. Decoration packs
 
 - Base (Adds universal plugins like EditorConfig, TODO highlighting, etc.)
 - Core (Contains all decoration packs except itself)
@@ -15,7 +15,7 @@ There are three categories of plugin packs.
 - Syntax (Adds [Syntax Highlightings](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide))
 - Themes (Adds [Color Themes](https://code.visualstudio.com/api/extension-guides/color-theme))
 
-1. Ecosystem packs
+### 2. Ecosystem packs
 
 - Cpp
 - Devops
@@ -29,7 +29,7 @@ There are three categories of plugin packs.
 - Rust
 - Web
 
-1. Platform packs
+### 3. Platform packs
 
 - unix
 - windows
