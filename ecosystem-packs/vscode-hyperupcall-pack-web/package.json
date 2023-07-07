@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-web",
 	"displayName": "Edwin's Pack: Web",
 	"description": "Extensions for web",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {

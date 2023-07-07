@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-rust",
 	"displayName": "Edwin's Pack: Rust",
 	"description": "Extensions for Rust",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {

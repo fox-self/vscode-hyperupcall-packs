@@ -1,8 +1,8 @@
 {
-	"name": "vscode-hyperupcall-pack-windows",
-	"displayName": "Edwin's Pack: Windows",
-	"description": "Extensions for Windows",
-	"version": "0.3.2",
+	"name": "vscode-hyperupcall-pack-latex",
+	"displayName": "Edwin's Pack: LaTeX",
+	"description": "Extensions for LaTeX",
+	"version": "0.1.1",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -23,7 +23,7 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"ms-vscode-remote.remote-wsl",
-		"ms-vscode.powershell"
+		"tecosaur.latex-utilities",
+		"James-Yu.latex-workshop"
 	]
 }

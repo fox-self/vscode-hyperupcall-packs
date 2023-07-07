@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-java",
 	"displayName": "Edwin's Pack: Java",
 	"description": "Extensions for Java",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
