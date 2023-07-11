@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-cpp",
 	"displayName": "Edwin's Pack: C++",
 	"description": "Extensions for C++",
-	"version": "0.3.3",
+	"version": "0.4.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -26,6 +26,8 @@
 		"ms-vscode.cpptools",
 		"twxs.cmake",
 		"ms-vscode.cmake-tools",
+		"mesonbuild.mesonbuild",
+		"tboox.xmake-vscode",
 		"matepek.vscode-catch2-test-adapter",
 		"amiralizadeh9480.cpp-helper",
 		"llvm-vs-code-extensions.vscode-clangd",
