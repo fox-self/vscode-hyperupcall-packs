@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-devops",
 	"displayName": "Edwin's Pack: DevOps",
 	"description": "Extensions for DevOps",
-	"version": "0.3.3",
+	"version": "0.4.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -25,6 +25,9 @@
 	"extensionPack": [
 		"4ops.terraform",
 		"HashiCorp.HCL",
-		"puppet.puppet-vscode"
+		"puppet.puppet-vscode",
+		"ms-kubernetes-tools.vscode-kubernetes-tools",
+		"redhat.vscode-yaml",
+		"Sebbia.jsonnetng"
 	]
 }

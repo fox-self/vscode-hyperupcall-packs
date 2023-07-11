@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-latex",
 	"displayName": "Edwin's Pack: LaTeX",
 	"description": "Extensions for LaTeX",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {

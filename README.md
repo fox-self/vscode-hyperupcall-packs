@@ -8,7 +8,7 @@ There are three categories of plugin packs:
 
 ### 1. Decoration packs
 
-- Base (Adds universal plugins like EditorConfig, TODO highlighting, etc.)
+- Base (Things like EditorConfig, TODO highlighting, etc.)
 - Core (Contains all decoration packs except itself)
 - Icons (Adds [File Icon Themes](https://code.visualstudio.com/api/extension-guides/file-icon-theme))
 - Product Icons (Adds [Product Icon Themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme))
@@ -18,21 +18,22 @@ There are three categories of plugin packs:
 ### 2. Ecosystem packs
 
 - Cpp
-- Devops
+- DevOps
 - Go
 - Java
+- LaTeX
 - Markdown
-- Other
 - PHP
 - Python
 - Ruby
 - Rust
+- Shell
 - Web
 
 ### 3. Platform packs
 
-- unix
-- windows
+- *nix
+- Windows
 
 ## Usage
 

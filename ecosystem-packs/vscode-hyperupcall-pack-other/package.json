@@ -1,8 +1,8 @@
 {
 	"name": "vscode-hyperupcall-pack-other",
 	"displayName": "Edwin's Pack: Other",
-	"description": "VSCode extension pack for Edwin's Other",
-	"version": "0.3.1",
+	"description": "Extensions for random things",
+	"version": "0.4.1",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -23,8 +23,25 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
+		"sumneko.lua",
+		"kosz78.nim",
+		"idleberg.nsis",
+		"aesl.odin",
+		"vlanguage.vscode-vlang",
+		"mshr-h.VerilogHDL",
+		"XadillaX.viml",
+		"davidnussio.vscode-jq-playground",
+		"dandric.vscode-jq",
+		"ocamllabs.ocaml-platform",
+		"julialang.language-julia",
+		"remcohaszing.schemastore",
+		"earthly.earthfile-syntax-highlighting",
+		"crystal-lang-tools.crystal-lang",
+		"asciidoctor.asciidoctor-vscode",
+		"dhall.dhall-lang",
+		"dhall.vscode-dhall-lsp-server",
 		"lextudio.restructuredtext",
-		"tomoki1207.pdf",
-		"trond-snekvik.simple-rst"
+		"trond-snekvik.simple-rst",
+		"tomoki1207.pdf"
 	]
 }
