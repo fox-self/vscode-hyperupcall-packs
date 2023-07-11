@@ -2,15 +2,15 @@
 	"name": "vscode-hyperupcall-pack-java",
 	"displayName": "Edwin's Pack: Java",
 	"description": "Extensions for Java",
-	"version": "0.3.2",
+	"version": "0.3.3",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs"
+		"url": "https://github.com/fox-land/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/fox-land/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",

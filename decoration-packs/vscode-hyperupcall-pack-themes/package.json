@@ -2,15 +2,15 @@
 	"name": "vscode-hyperupcall-pack-themes",
 	"displayName": "Edwin's Pack: Themes",
 	"description": "Extensions that add a color theme",
-	"version": "0.4.1",
+	"version": "0.4.2",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs"
+		"url": "https://github.com/fox-land/vscode-hyperupcall-packs"
 	},
 	"bugs": {
-		"url": "https://github.com/hyperupcall/vscode-hyperupcall-packs/issues"
+		"url": "https://github.com/fox-land/vscode-hyperupcall-packs/issues"
 	},
 	"author": {
 		"name": "Edwin Kofler",
