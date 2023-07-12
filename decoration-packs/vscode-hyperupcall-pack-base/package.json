@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-base",
 	"displayName": "Edwin's Pack: Base",
 	"description": "Things like EditorConfig, Error Lens, etc.",
-	"version": "0.4.3",
+	"version": "0.5.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -41,7 +41,6 @@
 		"LeonardSSH.vscord",
 		"stackbreak.comment-divider",
 		"aaron-bond.better-comments",
-		"stateful.runme",
 		"EdwinKofler.vscode-hyperupcall",
 		"redhat.vscode-yaml",
 		"redhat.vscode-xml",

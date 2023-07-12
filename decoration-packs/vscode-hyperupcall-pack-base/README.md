@@ -28,7 +28,6 @@ Includes:
 - [Discord Rich Presence](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord)
 - [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [Runme](https://marketplace.visualstudio.com/items?itemName=stateful.runme)
 - [hyperupcall](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall)
 
 **File Types**
