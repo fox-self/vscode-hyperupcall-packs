@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-themes",
 	"displayName": "Edwin's Pack: Themes",
 	"description": "Extensions that add a color theme",
-	"version": "0.4.2",
+	"version": "0.5.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -23,23 +23,29 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"ms-vscode.Theme-1337",
 		"teabyii.ayu",
 		"BeardedBear.beardedtheme",
-		"ms-vscode.cpptools-themes",
-		"Equinusocio.vsc-community-material-theme",
-		"dracula-theme.theme-dracula",
-		"sdras.night-owl",
+		"jdinhlife.gruvbox",
 		"liviuschera.noctis",
-		"arcticicestudio.nord-visual-studio-code",
+		"Equinusocio.vsc-community-material-theme",
+		"ms-vscode.Theme-MaterialKit",
+		"ms-vscode.Theme-TomorrowKit",
+		"ms-vscode.cpptools-themes",
+		"dracula-theme.theme-dracula",
 		"zhuangtongfa.material-theme",
-		"azemoh.one-monokai",
 		"whizkydee.material-palenight-theme",
-		"tinkertrain.theme-panda",
+		"idleberg.hopscotch",
+		"sdras.night-owl",
+		"enkia.tokyo-night",
+		"azemoh.one-monokai",
 		"ahmadawais.shades-of-purple",
 		"RobbOwen.synthwave-vscode",
-		"enkia.tokyo-night",
 		"johnpapa.winteriscoming",
-		"idleberg.hopscotch"
+		"uloco.theme-bluloco-light",
+		"uloco.theme-bluloco-dark",
+		"ms-vscode.Theme-1337",
+		"GitHub.github-vscode-theme",
+		"arcticicestudio.nord-visual-studio-code",
+		"tinkertrain.theme-panda"
 	]
 }
