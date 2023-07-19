@@ -2,8 +2,9 @@
 	"name": "vscode-hyperupcall-pack-base",
 	"displayName": "Edwin's Pack: Base",
 	"description": "Things like EditorConfig, Error Lens, etc.",
-	"version": "0.6.0",
+	"version": "0.6.1",
 	"publisher": "EdwinKofler",
+	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
 	"repository": {
 		"type": "git",

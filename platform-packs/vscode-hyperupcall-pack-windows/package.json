@@ -2,8 +2,9 @@
 	"name": "vscode-hyperupcall-pack-windows",
 	"displayName": "Edwin's Pack: Windows",
 	"description": "Extensions for Windows",
-	"version": "0.3.3",
+	"version": "0.3.4",
 	"publisher": "EdwinKofler",
+	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
 	"repository": {
 		"type": "git",

@@ -2,8 +2,9 @@
 	"name": "vscode-hyperupcall-pack-markdown",
 	"displayName": "Edwin's Pack: Markdown",
 	"description": "Extensions for Markdown",
-	"version": "0.3.4",
+	"version": "0.3.5",
 	"publisher": "EdwinKofler",
+	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
 	"repository": {
 		"type": "git",
