@@ -25,6 +25,10 @@ Includes:
 **Nice to have**
 
 - [Discord Rich Presence](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord)
+- [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
+- [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view)
+- [Markdown Preview VS Code Highlighting](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-shiki)
+- [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image)
 - [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [hyperupcall](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall)
