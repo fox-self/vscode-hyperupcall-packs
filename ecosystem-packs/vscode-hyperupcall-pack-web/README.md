@@ -7,6 +7,7 @@ Includes:
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 - [Vitest](https://marketplace.visualstudio.com/items?itemName=ZixuanChen.vitest-explorer)
+- [Svelte for VSCode](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
 - [Deno](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)
 - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)

@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-base",
 	"displayName": "Edwin's Pack: Base",
 	"description": "Things like EditorConfig, Error Lens, etc.",
-	"version": "0.5.0",
+	"version": "0.6.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -31,9 +31,7 @@
 		"eamodio.gitlens",
 		"donjayamanne.githistory",
 		"waderyan.gitblame",
-		"alefragnani.project-manager",
 		"Gruntfuggly.todo-tree",
-		"alefragnani.Bookmarks",
 		"ms-azuretools.vscode-docker",
 		"GitHub.copilot",
 		"GitHub.vscode-github-actions",

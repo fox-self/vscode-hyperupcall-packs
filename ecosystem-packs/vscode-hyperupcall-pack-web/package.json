@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-web",
 	"displayName": "Edwin's Pack: Web",
 	"description": "Extensions for the web platform",
-	"version": "0.3.4",
+	"version": "0.4.0",
 	"publisher": "EdwinKofler",
 	"license": "MPL-2.0",
 	"repository": {
@@ -28,6 +28,7 @@
 		"stylelint.vscode-stylelint",
 		"Vue.volar",
 		"ZixuanChen.vitest-explorer",
+		"svelte.svelte-vscode",
 		"denoland.vscode-deno",
 		"yoavbls.pretty-ts-errors",
 		"ms-playwright.playwright",

@@ -15,9 +15,8 @@ Includes:
 
 **Extremely Usefull**
 
-- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+- ~~[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)~~
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Github Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
