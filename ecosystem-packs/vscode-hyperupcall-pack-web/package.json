@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-web",
 	"displayName": "Edwin's Pack: Web",
 	"description": "Extensions for the web platform",
-	"version": "0.4.2",
+	"version": "0.5.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
@@ -32,12 +32,13 @@
 		"svelte.svelte-vscode",
 		"denoland.vscode-deno",
 		"yoavbls.pretty-ts-errors",
+		"Orta.vscode-twoslash-queries",
 		"ms-playwright.playwright",
 		"bradlc.vscode-tailwindcss",
 		"christian-kohler.npm-intellisense",
+		"deque-systems.vscode-axe-linter",
 		"firefox-devtools.vscode-firefox-debug",
 		"ms-edgedevtools.vscode-edge-devtools",
-		"xabikos.JavaScriptSnippets",
-		"Orta.vscode-twoslash-queries"
+		"xabikos.JavaScriptSnippets"
 	]
 }
