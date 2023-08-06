@@ -16,7 +16,7 @@ Includes:
 **Extremely Usefull**
 
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-- ~~[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)~~
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Github Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
@@ -39,6 +39,7 @@ Includes:
 - [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+- [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 - [Assorted Languages](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages)
 
 **Very Usefull**
