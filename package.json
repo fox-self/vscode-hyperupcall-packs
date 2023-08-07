@@ -1,5 +1,8 @@
 {
 	"name": "vscode-hyperupcall-packs",
 	"private": true,
-	"version": "0.0.1"
+	"devDependencies": {
+		"@hyperupcall/prettier-config": "^0.6.0",
+		"prettier": "^3.0.1"
+	}
 }

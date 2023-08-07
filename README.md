@@ -1,6 +1,6 @@
 # vscode-hyperupcall-packs
 
-Contains VSCode extension packs useful for [Profiles](https://code.visualstudio.com/docs/editor/profiles) and [Containers](https://code.visualstudio.com/docs/devcontainers/containers).
+My VSCode extension packs for use in [Profiles](https://code.visualstudio.com/docs/editor/profiles) and [Containers](https://code.visualstudio.com/docs/devcontainers/containers).
 
 ## Summary
 
@@ -33,12 +33,12 @@ There are three categories of plugin packs:
 
 ### 3. Platform packs
 
-- *nix
+- \*nix
 - Windows
 
 ## Usage
 
-I recommend choosing one extension from each category. For example, see this `devcontainer.json`:
+Click the _Extensions_ tab and search for `Edwin's Pack:` to see all the packs. I recommend choosing one extension from each category (they are color-coded). For example, see this [`devcontainer.json`](https://code.visualstudio.com/docs/devcontainers/containers):
 
 ```jsonc
 {

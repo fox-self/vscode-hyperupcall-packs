@@ -5,8 +5,14 @@ settings:
   excludeLinksFromLockfile: false
 
 importers:
-
-  .: {}
+  .:
+    devDependencies:
+      '@hyperupcall/prettier-config':
+        specifier: ^0.6.0
+        version: 0.6.0
+      prettier:
+        specifier: ^3.0.1
+        version: 3.0.1
 
   decoration-packs/vscode-hyperupcall-pack-base: {}
 
@@ -20,6 +26,8 @@ importers:
 
   decoration-packs/vscode-hyperupcall-pack-themes: {}
 
+  ecosystem-packs/vscode-hyperupcall-pack-all: {}
+
   ecosystem-packs/vscode-hyperupcall-pack-cpp: {}
 
   ecosystem-packs/vscode-hyperupcall-pack-devops: {}
@@ -27,6 +35,8 @@ importers:
   ecosystem-packs/vscode-hyperupcall-pack-go: {}
 
   ecosystem-packs/vscode-hyperupcall-pack-java: {}
+
+  ecosystem-packs/vscode-hyperupcall-pack-latex: {}
 
   ecosystem-packs/vscode-hyperupcall-pack-markdown: {}
 
@@ -45,3 +55,20 @@ importers:
   platform-packs/vscode-hyperupcall-pack-unix: {}
 
   platform-packs/vscode-hyperupcall-pack-windows: {}
+
+packages:
+  /@hyperupcall/prettier-config@0.6.0:
+    resolution:
+      {
+        integrity: sha512-nAJ+/9eZ4pnc/zVi3GvIE1hWIUjopr7iCaTQstW4hGeL8XjnUPMGz9Pn97PDqAWyDieQ8TT4PM+IILwaWFtBiQ==,
+      }
+    dev: true
+
+  /prettier@3.0.1:
+    resolution:
+      {
+        integrity: sha512-fcOWSnnpCrovBsmFZIGIy9UqK2FaI7Hqax+DIO0A9UxeVoY4iweyaFjS5TavZN97Hfehph0nhsZnjlVKzEQSrQ==,
+      }
+    engines: { node: '>=14' }
+    hasBin: true
+    dev: true

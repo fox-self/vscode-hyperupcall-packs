@@ -28,3 +28,7 @@ task.publish() {
 	vsce publish
 	ovsx publish --pat "$(<'../../.env-ovsx')"
 }
+
+task.format:fix() {
+	./node_modules/.bin/prettier --write .
+}
