@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-cpp",
 	"displayName": "Edwin's Pack: C++",
 	"description": "Extensions for C++",
-	"version": "0.4.2",
+	"version": "0.5.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
@@ -32,6 +32,8 @@
 		"matepek.vscode-catch2-test-adapter",
 		"amiralizadeh9480.cpp-helper",
 		"llvm-vs-code-extensions.vscode-clangd",
+		"revng.llvm-ir",
+		"llvm-vs-code-extensions.vscode-mlir",
 		"cschlosser.doxdocgen",
 		"jeff-hykin.better-c-syntax",
 		"jeff-hykin.better-cpp-syntax"
