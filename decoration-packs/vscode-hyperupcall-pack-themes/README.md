@@ -11,6 +11,7 @@ Includes:
 - [Tomorrow and Tomorrow Night Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)
 - [ms-vscode.cpptools-themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)
 - [dracula-theme.theme-dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 - [zhuangtongfa.material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
 - [whizkydee.material-palenight-theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 - [idleberg.hopscotch](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch)
