@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-markdown",
 	"displayName": "Edwin's Pack: Markdown",
 	"description": "Extensions for Markdown",
-	"version": "0.3.6",
+	"version": "0.4.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
@@ -26,6 +26,7 @@
 	"extensionPack": [
 		"DavidAnson.vscode-markdownlint",
 		"yzhang.markdown-all-in-one",
+		"bierner.markdown-shiki",
 		"bierner.markdown-preview-github-styles",
 		"bierner.markdown-mermaid",
 		"bierner.markdown-emoji",
@@ -35,6 +36,7 @@
 		"bierner.markdown-footnotes",
 		"TakumiI.markdowntable",
 		"fcrespo82.markdown-table-formatter",
+		"telesoho.vscode-markdown-paste-image",
 		"unifiedjs.vscode-mdx"
 	]
 }

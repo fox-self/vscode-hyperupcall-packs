@@ -13,7 +13,7 @@ Includes:
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
 
-**Extremely Usefull**
+**Extremely Useful**
 
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
@@ -22,15 +22,24 @@ Includes:
 - [Github Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - [Github Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
+**Very Useful**
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+- [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
+- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
+
 **Nice to have**
 
 - [Discord Rich Presence](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord)
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
 - [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view)
-- [Markdown Preview VS Code Highlighting](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-shiki)
-- [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image)
 - [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [macro-commander (Command Runner)](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.macro-commander)
 - [hyperupcall](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall)
 
 **File Types**
@@ -41,13 +50,4 @@ Includes:
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 - [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 - [Assorted Languages](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages)
-
-**Very Usefull**
-
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
-- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-- [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
-- [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
-- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
+- [Edwin's Pack: Markdown](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-hyperupcall-pack-markdown)
