@@ -26,6 +26,7 @@
 	"extensionPack": [
 		"DavidAnson.vscode-markdownlint",
 		"yzhang.markdown-all-in-one",
+		"unifiedjs.vscode-mdx",
 		"bierner.markdown-shiki",
 		"bierner.markdown-preview-github-styles",
 		"bierner.markdown-mermaid",
@@ -34,9 +35,6 @@
 		"bierner.emojisense",
 		"bierner.markdown-yaml-preamble",
 		"bierner.markdown-footnotes",
-		"TakumiI.markdowntable",
-		"fcrespo82.markdown-table-formatter",
-		"telesoho.vscode-markdown-paste-image",
-		"unifiedjs.vscode-mdx"
+		"fcrespo82.markdown-table-formatter"
 	]
 }
