@@ -6,7 +6,7 @@ Includes:
 - [BeardedBear.beardedtheme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
 - [jdinhlife.gruvbox](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox)
 - [liviuschera.noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
-- [Equinusocio.vsc-community-material-theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 - [Material Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MaterialKit)
 - [Tomorrow and Tomorrow Night Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)
 - [ms-vscode.cpptools-themes](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)

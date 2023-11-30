@@ -13,6 +13,7 @@ Includes:
 - [vscode-jq](https://marketplace.visualstudio.com/items?itemName=dandric.vscode-jq)
 - [OCaml Platform](https://marketplace.visualstudio.com/items?itemName=ocamllabs.ocaml-platform)
 - [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
+- [ANTLR4 grammar syntax support](https://marketplace.visualstudio.com/items?itemName=mike-lischke.vscode-antlr4)
 - [JSON Schema Store](https://marketplace.visualstudio.com/items?itemName=remcohaszing.schemastore)
 - [Earthfile Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=earthly.earthfile-syntax-highlighting)
 - [Crystal Language](https://marketplace.visualstudio.com/items?itemName=crystal-lang-tools.crystal-lang)
