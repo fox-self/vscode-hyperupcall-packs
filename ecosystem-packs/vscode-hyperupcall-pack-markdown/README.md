@@ -13,4 +13,3 @@ Includes:
 - [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
 - [Markdown yaml Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble)
 - [Markdown Footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes)
-- [Markdown Table Formatter](https://marketplace.visualstudio.com/items?itemName=fcrespo82.markdown-table-formatter)

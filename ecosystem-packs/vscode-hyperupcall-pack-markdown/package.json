@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-markdown",
 	"displayName": "Edwin's Pack: Markdown",
 	"description": "Extensions for Markdown",
-	"version": "0.5.0",
+	"version": "0.6.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
@@ -34,7 +34,6 @@
 		"bierner.markdown-checkbox",
 		"bierner.emojisense",
 		"bierner.markdown-yaml-preamble",
-		"bierner.markdown-footnotes",
-		"fcrespo82.markdown-table-formatter"
+		"bierner.markdown-footnotes"
 	]
 }
