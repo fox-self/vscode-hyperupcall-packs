@@ -2,7 +2,7 @@
 	"name": "vscode-hyperupcall-pack-rust",
 	"displayName": "Edwin's Pack: Rust",
 	"description": "Extensions for Rust",
-	"version": "0.3.5",
+	"version": "0.4.0",
 	"publisher": "EdwinKofler",
 	"icon": "assets/icon.png",
 	"license": "MPL-2.0",
@@ -25,7 +25,7 @@
 	],
 	"extensionPack": [
 		"rust-lang.rust-analyzer",
-		"panicbit.cargo",
-		"serayuzgur.crates"
+		"serayuzgur.crates",
+		"swellaby.vscode-rust-test-adapter"
 	]
 }
