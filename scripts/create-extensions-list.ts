@@ -1,7 +1,7 @@
 #!/usr/bin/env -S deno --allow-read --allow-write
 import type { PackageJson } from 'npm:type-fest'
 
-const extensions: { extensionName: string, packageJson: PackageJson }[] = []
+const extensions: { dirname: string, packageJson: PackageJson }[] = []
 for (const stat of Deno.readDirSync('./')) {
    if (stat.isDirectory && stat.name.startsWith('pack-')) {
       const packageJsonFile = `./${stat.name}/package.json`
@@ -10,7 +10,7 @@ for (const stat of Deno.readDirSync('./')) {
          throw new Error(`Expected packageJson file "${packageJsonFile}" to have property "name"`)
       }
       extensions.push({
-         extensionName: packageJson.name,
+         dirname: stat.name,
          packageJson
       })
    }

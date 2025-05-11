@@ -1,6 +1,6 @@
 [
 	{
-		"extensionName": "vscode-hyperupcall-pack-icons",
+		"dirname": "pack-decoration-icons",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-icons",
 			"displayName": "Edwin's Pack: Icon",
@@ -36,7 +36,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-latex",
+		"dirname": "pack-ecosystem-latex",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-latex",
 			"displayName": "Edwin's Pack: LaTeX",
@@ -69,7 +69,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-core",
+		"dirname": "pack-decoration-core",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-core",
 			"displayName": "Edwin's Pack: Core",
@@ -106,7 +106,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-php",
+		"dirname": "pack-ecosystem-php",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-php",
 			"displayName": "Edwin's Pack: PHP",
@@ -139,7 +139,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-themes",
+		"dirname": "pack-decoration-themes",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-themes",
 			"displayName": "Edwin's Pack: Themes",
@@ -195,7 +195,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-base",
+		"dirname": "pack-decoration-base",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-base",
 			"displayName": "Edwin's Pack: Base",
@@ -261,7 +261,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-unix",
+		"dirname": "pack-platform-unix",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-unix",
 			"displayName": "Edwin's Pack: *nix",
@@ -299,7 +299,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-all",
+		"dirname": "pack-ecosystem-all",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-all",
 			"displayName": "Edwin's Pack: All",
@@ -345,7 +345,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-syntax",
+		"dirname": "pack-decoration-syntax",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-syntax",
 			"displayName": "Edwin's Pack: Syntax",
@@ -394,7 +394,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-python",
+		"dirname": "pack-ecosystem-python",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-python",
 			"displayName": "Edwin's Pack: Python",
@@ -431,7 +431,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-java",
+		"dirname": "pack-ecosystem-java",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-java",
 			"displayName": "Edwin's Pack: Java",
@@ -469,7 +469,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-web",
+		"dirname": "pack-ecosystem-web",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-web",
 			"displayName": "Edwin's Pack: Web",
@@ -516,7 +516,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-ruby",
+		"dirname": "pack-ecosystem-ruby",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-ruby",
 			"displayName": "Edwin's Pack: Ruby",
@@ -550,7 +550,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-go",
+		"dirname": "pack-ecosystem-go",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-go",
 			"displayName": "Edwin's Pack: Go",
@@ -584,7 +584,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-other",
+		"dirname": "pack-ecosystem-other",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-other",
 			"displayName": "Edwin's Pack: Other",
@@ -636,7 +636,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-windows",
+		"dirname": "pack-platform-windows",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-windows",
 			"displayName": "Edwin's Pack: Windows",
@@ -669,7 +669,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-cpp",
+		"dirname": "pack-ecosystem-cpp",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-cpp",
 			"displayName": "Edwin's Pack: C++",
@@ -713,7 +713,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-devops",
+		"dirname": "pack-ecosystem-devops",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-devops",
 			"displayName": "Edwin's Pack: DevOps",
@@ -750,7 +750,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-markdown",
+		"dirname": "pack-ecosystem-markdown",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-markdown",
 			"displayName": "Edwin's Pack: Markdown",
@@ -792,7 +792,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-product-icons",
+		"dirname": "pack-decoration-product-icons",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-product-icons",
 			"displayName": "Edwin's Pack: Product Icon",
@@ -826,7 +826,7 @@
 		}
 	},
 	{
-		"extensionName": "vscode-hyperupcall-pack-rust",
+		"dirname": "pack-ecosystem-rust",
 		"packageJson": {
 			"name": "vscode-hyperupcall-pack-rust",
 			"displayName": "Edwin's Pack: Rust",
