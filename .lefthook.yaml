@@ -1,0 +1,5 @@
+
+pre-commit:
+  commands:
+    create-extensions-list:
+      run: './scripts/create-extensions-list.ts'
