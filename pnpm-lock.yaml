@@ -1,10 +1,11 @@
-lockfileVersion: '6.0'
+lockfileVersion: '9.0'
 
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
 importers:
+
   .:
     devDependencies:
       '@hyperupcall/prettier-config':
@@ -12,63 +13,62 @@ importers:
         version: 0.6.0
       prettier:
         specifier: ^3.0.1
-        version: 3.0.1
+        version: 3.5.3
 
-  decoration-packs/vscode-hyperupcall-pack-base: {}
+  pack-decoration-base: {}
 
-  decoration-packs/vscode-hyperupcall-pack-core: {}
+  pack-decoration-core: {}
 
-  decoration-packs/vscode-hyperupcall-pack-icons: {}
+  pack-decoration-icons: {}
 
-  decoration-packs/vscode-hyperupcall-pack-product-icons: {}
+  pack-decoration-product-icons: {}
 
-  decoration-packs/vscode-hyperupcall-pack-syntax: {}
+  pack-decoration-syntax: {}
 
-  decoration-packs/vscode-hyperupcall-pack-themes: {}
+  pack-decoration-themes: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-all: {}
+  pack-ecosystem-all: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-cpp: {}
+  pack-ecosystem-cpp: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-devops: {}
+  pack-ecosystem-devops: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-go: {}
+  pack-ecosystem-go: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-java: {}
+  pack-ecosystem-java: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-latex: {}
+  pack-ecosystem-latex: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-markdown: {}
+  pack-ecosystem-markdown: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-other: {}
+  pack-ecosystem-other: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-php: {}
+  pack-ecosystem-php: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-python: {}
+  pack-ecosystem-python: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-ruby: {}
+  pack-ecosystem-ruby: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-rust: {}
+  pack-ecosystem-rust: {}
 
-  ecosystem-packs/vscode-hyperupcall-pack-web: {}
+  pack-ecosystem-web: {}
 
-  platform-packs/vscode-hyperupcall-pack-unix: {}
+  pack-platform-unix: {}
 
-  platform-packs/vscode-hyperupcall-pack-windows: {}
+  pack-platform-windows: {}
 
 packages:
-  /@hyperupcall/prettier-config@0.6.0:
-    resolution:
-      {
-        integrity: sha512-nAJ+/9eZ4pnc/zVi3GvIE1hWIUjopr7iCaTQstW4hGeL8XjnUPMGz9Pn97PDqAWyDieQ8TT4PM+IILwaWFtBiQ==,
-      }
-    dev: true
 
-  /prettier@3.0.1:
-    resolution:
-      {
-        integrity: sha512-fcOWSnnpCrovBsmFZIGIy9UqK2FaI7Hqax+DIO0A9UxeVoY4iweyaFjS5TavZN97Hfehph0nhsZnjlVKzEQSrQ==,
-      }
-    engines: { node: '>=14' }
+  '@hyperupcall/prettier-config@0.6.0':
+    resolution: {integrity: sha512-nAJ+/9eZ4pnc/zVi3GvIE1hWIUjopr7iCaTQstW4hGeL8XjnUPMGz9Pn97PDqAWyDieQ8TT4PM+IILwaWFtBiQ==}
+
+  prettier@3.5.3:
+    resolution: {integrity: sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==}
+    engines: {node: '>=14'}
     hasBin: true
-    dev: true
+
+snapshots:
+
+  '@hyperupcall/prettier-config@0.6.0': {}
+
+  prettier@3.5.3: {}
