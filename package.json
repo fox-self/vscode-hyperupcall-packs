@@ -2,7 +2,13 @@
 	"name": "vscode-hyperupcall-packs",
 	"private": true,
 	"devDependencies": {
-		"@hyperupcall/prettier-config": "^0.9.1",
-		"prettier": "^3.5.3"
+		"@hyperupcall/scripts-nodejs": "0.3.1"
+	},
+	"markdownlint-cli2": {
+		"extends": "./node_modules/@hyperupcall/markdownlint-config/.markdownlint.json"
+	},
+	"prettier": "@hyperupcall/scripts-nodejs/config-prettier.js",
+	"scripts": {
+		"format": "hyperupcall-scripts-nodejs format"
 	}
 }
