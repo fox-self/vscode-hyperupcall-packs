@@ -9,10 +9,10 @@ importers:
   .:
     devDependencies:
       '@hyperupcall/prettier-config':
-        specifier: ^0.6.0
-        version: 0.6.0
+        specifier: ^0.9.1
+        version: 0.9.1
       prettier:
-        specifier: ^3.0.1
+        specifier: ^3.5.3
         version: 3.5.3
 
   pack-decoration-base: {}
@@ -59,8 +59,11 @@ importers:
 
 packages:
 
-  '@hyperupcall/prettier-config@0.6.0':
-    resolution: {integrity: sha512-nAJ+/9eZ4pnc/zVi3GvIE1hWIUjopr7iCaTQstW4hGeL8XjnUPMGz9Pn97PDqAWyDieQ8TT4PM+IILwaWFtBiQ==}
+  '@hyperupcall/config-utils@0.4.0':
+    resolution: {integrity: sha512-EhKjgJChTmd/yplvqno7r3b13US0u0QzBxUCEyQ4jqKm/gSl2eYD3XlbnVGLjFzf8pg72cf3DwSg6Cy7G4Q6ag==}
+
+  '@hyperupcall/prettier-config@0.9.1':
+    resolution: {integrity: sha512-PTHQ6Hd2YKE1RbWgpAOJg1kI83Alx2ULFJZU+eMhr59DUbgezwFyQUkXw+aVCbSQjFCEF7C/frNW5oyz3G5rXA==}
 
   prettier@3.5.3:
     resolution: {integrity: sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==}
@@ -69,6 +72,10 @@ packages:
 
 snapshots:
 
-  '@hyperupcall/prettier-config@0.6.0': {}
+  '@hyperupcall/config-utils@0.4.0': {}
+
+  '@hyperupcall/prettier-config@0.9.1':
+    dependencies:
+      '@hyperupcall/config-utils': 0.4.0
 
   prettier@3.5.3: {}
